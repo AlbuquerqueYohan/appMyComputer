@@ -9,10 +9,10 @@
     <string name="favorite_page_title">Mes PC favoris</string>
 
     <!--  Add Computer  -->
-    <string name="add_computer_titlle">Ajouter un PC</string>
+    <string name="add_computer_title">Ajouter un PC</string>
     <string name="add_computer_add_image_button">Charger une image</string>
     <string name="add_computer_name_input">@string/computer_name</string>
-    <string name="add_computer_descriptio_input">@string/computer_description</string>
+    <string name="add_computer_description_input">@string/computer_description</string>
     <string name="add_computer_price_input">Prix</string>
     <string-array name="add_computer_review_spinner_input">
         <item>Très négative</item>
@@ -31,7 +31,6 @@
     <string name="popup_computer_price_subtitle">Prix affiché</string>
     <string name="popup_computer_review">Avis</string>
     <string name="popup_computer_review_subtitle">Avis affiché</string>
-
 
     <!--  Computer  -->
     <string name="computer_name">Nom du PC</string>
