@@ -13,4 +13,20 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <!--  Composant for title  -->
+    <style name="defaultTextStyle">
+        <item name="android:textColor">@color/grey</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">@font/coolvetica</item>
+    </style>
+
+    <style name="subtitleTextStyle" parent="defaultTextStyle">
+        <item name="android:textColor">@color/darkGray</item>
+    </style>
+
+    <style name="titleTextStyle" parent="subtitleTextStyle">
+        <item name="android:textSize">24sp</item>
+    </style>
+
 </resources>
